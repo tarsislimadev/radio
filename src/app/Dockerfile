@@ -5,4 +5,3 @@ WORKDIR /app
 COPY . .
 
 CMD python3 __main__.py
-
