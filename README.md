@@ -6,6 +6,8 @@
 
 [Donate](https://link.mercadopago.com.br/brtmvdl) - [Telegram](https://t.me/+KRmg5MlqgMk0MTg5) - [Discord](https://discord.gg/auCmnvV2)
 
+[UA Server RTSP Communication](https://www.w3.org/2008/WebVideo/Fragments/wiki/UA_Server_RTSP_Communication)
+
 ## license
 
 [MIT](./LICENSE)
